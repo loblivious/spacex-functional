@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/spacex-functional/static/css/main.2b8ee4fa.css",
+    "main.js": "/spacex-functional/static/js/main.657e9e41.js",
+    "static/js/787.9f0a6bc5.chunk.js": "/spacex-functional/static/js/787.9f0a6bc5.chunk.js",
+    "static/media/satellite.svg": "/spacex-functional/static/media/satellite.057df29c063c5fe47abd6cc0ffff6dd2.svg",
+    "static/media/starlink_logo.svg": "/spacex-functional/static/media/starlink_logo.24f24e727e900097578ada4372f98265.svg",
+    "index.html": "/spacex-functional/index.html",
+    "main.2b8ee4fa.css.map": "/spacex-functional/static/css/main.2b8ee4fa.css.map",
+    "main.657e9e41.js.map": "/spacex-functional/static/js/main.657e9e41.js.map",
+    "787.9f0a6bc5.chunk.js.map": "/spacex-functional/static/js/787.9f0a6bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b8ee4fa.css",
+    "static/js/main.657e9e41.js"
+  ]
+}
