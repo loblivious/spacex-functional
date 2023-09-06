@@ -18,7 +18,7 @@ const progressStatus = {
 };
 
 const geoUrl =
-  'https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json';
+  'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json';
 
 const WorldMap = ({ observerInfo, satList, disableLeftPanel }) => {
   const [duration, setDuration] = useState(1);
